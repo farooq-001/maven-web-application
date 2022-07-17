@@ -6,6 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Baba Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
+<link href="image/body.webp" rel="icon">
 </head>
 </head>
 <body>
