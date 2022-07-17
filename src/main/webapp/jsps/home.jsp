@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h align="center"> HELLO MAMA I HAVE SUCCUSESSFULLY COMLETED DEPLOYIN A JOB  & ATOMATED A JOB AFETER ANY CHANGES ON SCR </h>
 <h1 align="center">Welcome to the  Saddam-Baba  Devops learning hub </h1>
 <h1 align="center"> Baba Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <h2 align="center">  KING BABA FAROOQ SKILL LEARNING SENTER FOR POOR STUDENTS  </h2>
+<h3 align="center"> HELLO MAMA I HAVE SUCCUSESSFULLY COMLETED DEPLOYIN A JOB  & ATOMATED A JOB AFETER ANY CHANGES ON SCR </h3>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
