@@ -9,7 +9,6 @@
 </head>
 </head>
 <body>
-<link href="images/baba.jpg" rel="icon">
 <h1 align="center">Welcome to the  Saddam-Baba  Devops learning hub</h1>
 <h1 align="center">Baba Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <h2 align="center">KING BABA FAROOQ SKILL LEARNING SENTER FOR POOR STUDENTS</h2>
