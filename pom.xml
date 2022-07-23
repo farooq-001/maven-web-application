@@ -95,16 +95,16 @@
 	
 	<distributionManagement>
 	
-	    <repository>
+	    <!--<repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
-	    </repository>
+	    </repository>-->
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <url>http://3.6.41.193:8081/repository/baba-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
