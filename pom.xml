@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>baba</id>
+	      <id>saddam</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.6.41.193:8081/repository/maven-releases/</url>
+	      <url>http://13.127.77.68:8081/repository/faq-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>baba</id>
+	      <id>saddam</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.6.41.193:8081/repository/maven-snapshots/</url>
+	      <url>http://13.127.77.68:8081/repository/faq-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
