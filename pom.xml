@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.1.1-SNAPSHOT</version>
+	<version>0.2.1-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>maven-releases</id>
+	      <id>farooq</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.77.68:8081/repository/faq-release/</url>
+	      <url>http:/http://13.127.29.24:8081/repository/farooq-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>maven-releases</id>
+	      <id>farooq</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.77.68:8081/repository/faq-snapshot/</url>
+	      <url>http:/http://13.127.29.24:8081/repository/farooq-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
