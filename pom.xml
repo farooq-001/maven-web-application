@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>saddam</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.166.8:8081/repository/babafarooq-release/</url>
+	      <url>http://65.2.34.243:8081/repository/babafarooq-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>saddam</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.166.8:8081/repository/babafarooq-snapshit/</url>
+	      <url>http://65.2.34.243:8081/1/repository/babafarooq-snapshit/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
